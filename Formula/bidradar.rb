@@ -1,8 +1,8 @@
 class Bidradar < Formula
   desc "CLI tool for tracking real estate auction offers from CEF"
   homepage "https://github.com/praser/bidradar"
-  url "https://github.com/praser/bidradar/releases/download/v0.6.4/bidradar-0.6.4.tar.gz"
-  sha256 "a9299629b603929be40420c6a9c14b270bb58792e690863d5a3cf513302d80a9"
+  url "https://github.com/praser/bidradar/releases/download/v0.6.5/bidradar-0.6.5.tar.gz"
+  sha256 "1f8bc2d16d4880493ae810b79b0edb183d224e68b31fc0ba15edb21b3c5dc000"
   license "ISC"
 
   depends_on "node@22"
